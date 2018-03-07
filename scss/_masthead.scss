@@ -11,17 +11,17 @@ header.masthead {
     padding-top: 150px;
     padding-bottom: 100px;
     .intro-lead-in {
-      font-size: 22px;
+      font-size: 16px;
       font-style: italic;
-      line-height: 22px;
-      margin-bottom: 25px;
+      line-height: 16px;
+      margin-bottom: 16px;
       @include serif-font;
     }
     .intro-heading {
-      font-size: 50px;
+      font-size: 30px;
       font-weight: 700;
-      line-height: 50px;
-      margin-bottom: 25px;
+      line-height: 30px;
+      margin-bottom: 16px;
       @include heading-font;
     }
   }
